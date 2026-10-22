@@ -6,9 +6,9 @@ reUseMe connects people who want to give items away with people and charities wh
 
 ## Contributors
 
+- Farhan Tanvir Faruque ([@FTFaruque](https://github.com/FTFaruque))
 - Carlos Dorado (@CarlosDoradoPedraza)
 - Ali Mofidi ([@AliMofidi21](https://github.com/AliMofidi21))
-- Farhan Tanvir Faruque ([@FTFaruque](https://github.com/FTFaruque))
 - [@msharifA](https://github.com/msharifA)
 - [@Yahye-Ashkir](https://github.com/Yahye-Ashkir)
 
