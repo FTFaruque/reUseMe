@@ -4,6 +4,8 @@ A web application that allows users to donate unwanted items.
 
 reUseMe connects people who want to give items away with people and charities who can use them. Features include item listings and a marketplace, charity registration and stores, collection scheduling and tracking, messaging and live chat, reviews, notifications, badges, user reports, a CO₂ savings calculator, and an admin dashboard.
 
+<u>**Note:**</u> This is a Year-2 Group Project of Brunel University London's Computer Science course.
+
 ## Contributors
 
 - Farhan Tanvir Faruque ([@FTFaruque](https://github.com/FTFaruque))
