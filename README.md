@@ -1,8 +1,8 @@
-# ReUseMe
+# reUseMe
 
 A web application that allows users to donate unwanted items.
 
-ReUseMe connects people who want to give items away with people and charities who can use them. Features include item listings and a marketplace, charity registration and stores, collection scheduling and tracking, messaging and live chat, reviews, notifications, badges, user reports, a CO₂ savings calculator, and an admin dashboard.
+reUseMe connects people who want to give items away with people and charities who can use them. Features include item listings and a marketplace, charity registration and stores, collection scheduling and tracking, messaging and live chat, reviews, notifications, badges, user reports, a CO₂ savings calculator, and an admin dashboard.
 
 ## Contributors
 
